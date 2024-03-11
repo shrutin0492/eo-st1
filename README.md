@@ -1,6 +1,8 @@
 # Special Topics - 1
 Special project completed during the 2nd year of my undergrad: Earth Observation using Machine Learning to Analyze Satellite Data to Monitor and Predict Weather Patterns, Natural Disasters and Climate Change.
 
+Utilized a decade's satellite data to predict weather patterns, natural disasters, and climate change with over 97% variance score. Implemented models (Linear Regression, Decision Tree, Random Forest) with mean absolute error below 0.4°C.
+
 The project aimed to analyze weather data using machine learning techniques for Earth observation purposes. The analysis was conducted using Python programming language and various libraries including Pandas, NumPy, Matplotlib, Seaborn, Plotly, and scikit-learn. The project utilized a dataset containing weather data for Bengaluru.
 
 The workflow included data preprocessing, where numerical features such as maximum temperature, minimum temperature, heat index, UV index, feels like temperature, and wind chill were selected for analysis. Correlation analysis was performed to understand the relationships between these features. The dataset was split into training and testing sets using a 80-20 ratio.
